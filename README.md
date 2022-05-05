@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Susinn
-- 👀 I’m interested in flutter
+- 👀 I’m interested in app development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter
 - 📫 How to reach me susin.psudhakar@gmail.com
 
 <!---
